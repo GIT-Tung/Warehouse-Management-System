@@ -1,0 +1,21 @@
+# Exclude Maven build directory
+FinalProject/storage-manager/storage-manager/target/
+FinalProject/storage-manager/target/
+
+# Exclude IntelliJ IDEA project files
+FinalProject/storage-manager/.idea/
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Exclude NetBeans project files
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+# Exclude VS Code
+.vscode/
