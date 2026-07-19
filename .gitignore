@@ -18,3 +18,7 @@ build/
 
 # Exclude VS Code
 .vscode/
+
+# Exclude Node.js dependencies and builds
+node_modules/
+dist/
