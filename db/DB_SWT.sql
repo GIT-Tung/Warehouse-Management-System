@@ -281,7 +281,7 @@ INSERT INTO Users
 (Username, Password, FullName, Email, Phone, Status, RoleID)
 VALUES
 ('admin',
-'$2a$10$abcdefghijklmnopqrstuv',
+'$2a$10$KmP4iNod3tyjCUeGH/wuWusHME1xlTm8DApit.uD5I8NKhGUXdnrq',
 'System Admin',
 'admin@gmail.com',
 '0900000000',

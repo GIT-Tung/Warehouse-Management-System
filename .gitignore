@@ -1,6 +1,5 @@
 # Exclude Maven build directory
-FinalProject/storage-manager/storage-manager/target/
-FinalProject/storage-manager/target/
+backend/target/
 
 # Exclude IntelliJ IDEA project files
 FinalProject/storage-manager/.idea/
